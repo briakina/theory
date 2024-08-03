@@ -1,2 +1,2 @@
-# theory
-1st homework for Functional software testing course
+# Теория тестирования
+Homework for Functional software testing course
